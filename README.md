@@ -1,10 +1,10 @@
-# Zed - Neutral Theme
+# Neutral Theme
 
 A clean, minimal theme for the [Zed editor](https://zed.dev/) featuring a neutral color palette.
 
 ## Description
 
-Zed - Neutral is designed to provide a distraction-free coding experience with a carefully selected color palette that reduces eye strain while maintaining good readability. The theme uses neutral grays with thoughtful accent colors based on Tailwind's color palettes.
+Neutral Theme is designed to provide a distraction-free coding experience with a carefully selected color palette that reduces eye strain while maintaining good readability. The theme uses neutral grays with thoughtful accent colors based on Tailwind's color palettes.
 
 ## Features
 
@@ -21,14 +21,14 @@ Zed - Neutral is designed to provide a distraction-free coding experience with a
 1. Open Zed
 2. Press `Cmd+Shift+P` (macOS) or `Ctrl+Shift+P` (Windows/Linux) to open the command palette
 3. Type "Extensions" and select "Extensions: Open"
-4. Search for "Zed - Neutral"
+3. Search for "Neutral Theme"
 5. Click "Install"
 
 ### Manual Installation
 
 1. Clone this repository:
    ```
-   git clone https://github.com/dustinbturner/zed-neutral.git
+   git clone https://github.com/dustinbturner/neutral-theme.git
    ```
 2. Copy the theme files to your Zed extensions directory:
    - macOS: `~/.config/zed/extensions/`
@@ -40,11 +40,11 @@ Zed - Neutral is designed to provide a distraction-free coding experience with a
 1. Open Zed
 2. Press `Cmd+Shift+P` (macOS) or `Ctrl+Shift+P` (Windows/Linux) to open the command palette
 3. Type "Theme" and select "Settings: Change Theme"
-4. Select "Zed - Neutral" from the list
+4. Select "Neutral Theme" from the list
 
 ## Customization
 
-You can customize this theme by modifying the `themes/zed-neutral.json` file. Refer to the [Zed Themes documentation](https://zed.dev/docs/themes) for more information on theme customization.
+You can customize this theme by modifying the `themes/neutral-theme.json` file. Refer to the [Zed Themes documentation](https://zed.dev/docs/themes) for more information on theme customization.
 
 ## Credits
 
@@ -56,4 +56,4 @@ MIT
 
 ## Feedback and Contributions
 
-Feedback and contributions are welcome! Please feel free to submit issues or pull requests to the [GitHub repository](https://github.com/dustinbturner/zed-neutral).
+Feedback and contributions are welcome! Please feel free to submit issues or pull requests to the [GitHub repository](https://github.com/dustinbturner/neutral-theme).

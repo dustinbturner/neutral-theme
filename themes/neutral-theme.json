@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Zed - Neutral",
+  "name": "Neutral Theme",
   "author": "Dustin Turner (Modified for Tailwind Color Palettes)",
   "themes": [
     {
-      "name": "Zed - Neutral",
+      "name": "Neutral Theme",
       "appearance": "dark",
       "style": {
         "info.background": "#1e3a8a",

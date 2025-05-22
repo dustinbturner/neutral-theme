@@ -1,7 +1,7 @@
-id = "zed-neutral"
-name = "Zed - Neutral"
-version = "0.3.0"
+id = "neutral-theme"
+name = "Neutral Theme"
+version = "0.0.1"
 schema_version = 1
 authors = ["Dustin Turner <dustin@dustinbturner.com>"]
 description = "Clean, minimal, neutral color palette."
-repository = "https://github.com/dustinbturner/zed-neutral"
+repository = "https://github.com/dustinbturner/neutral-theme"
