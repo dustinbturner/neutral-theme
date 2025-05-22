@@ -1,0 +1,7 @@
+id = "zed-neutral"
+name = "Zed - Neutral"
+version = "0.3.0"
+schema_version = 1
+authors = ["Dustin Turner <dustin@dustinbturner.com>"]
+description = "Clean, minimal, neutral color palette."
+repository = "https://github.com/dustinbturner/zed-neutral"
