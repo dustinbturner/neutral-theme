@@ -14,6 +14,19 @@ Neutral Theme is designed to provide a distraction-free coding experience with a
 - Terminal colors optimized for readability
 - Based on Tailwind Color Palettes
 
+## Screenshots
+
+### Multi-language Demo
+![Multi-language Theme Demo](screenshots/theme-demo.png)
+
+### TypeScript with React
+![TypeScript Demo](screenshots/typescript-demo.png)
+
+### CSS Styling
+![CSS Styling Demo](screenshots/styles-demo.png)
+
+> Note: Screenshots showcase the theme applied to the demo files included in this repository. The demos include a variety of programming languages and syntax features to highlight the theme's appearance.
+
 ## Installation
 
 ### From Zed Extensions
@@ -46,6 +59,25 @@ Neutral Theme is designed to provide a distraction-free coding experience with a
 
 You can customize this theme by modifying the `themes/neutral-theme.json` file. Refer to the [Zed Themes documentation](https://zed.dev/docs/themes) for more information on theme customization.
 
+## Demo Files
+
+This repository includes demo files in the `demo` directory that showcase the theme's syntax highlighting across multiple programming languages:
+
+- JavaScript with React
+- TypeScript with React hooks
+- Python with NumPy
+- Rust with async/await
+- HTML/CSS
+- Standalone CSS with modern features
+- JSON
+- SQL
+
+These files are useful for testing the theme or taking screenshots to showcase its appearance. You can find all demo files in the `demo/` directory:
+
+- `theme-demo.md` - A comprehensive showcase with multiple languages
+- `typescript-demo.ts` - TypeScript features and syntax
+- `styles-demo.css` - Modern CSS features and styling
+
 ## Credits
 
 Created by Dustin Turner. Modified for Tailwind Color Palettes.
@@ -53,6 +85,10 @@ Created by Dustin Turner. Modified for Tailwind Color Palettes.
 ## License
 
 MIT
+
+## Changelog
+
+See the [CHANGELOG.md](CHANGELOG.md) file for details on version updates and changes.
 
 ## Feedback and Contributions
 
